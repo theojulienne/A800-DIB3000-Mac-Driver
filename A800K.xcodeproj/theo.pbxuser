@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* A800K */;
+		addToTargets = (
+			32D94FC30562CBF700B6AF17 /* A800K */,
+		);
+		codeSenseManager = E439BAAD0AB6A8AB002558D2 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					593,
+					251.2085,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					654,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 186296256;
+			PBXWorkspaceStateSaveDate = 186296256;
+		};
+		sourceControlManager = E439BAAC0AB6A8AB002558D2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1A224C3EFF42367911CA2CB7 /* A800K.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 2856}}";
+			sepNavSelRange = "{213, 0}";
+			sepNavVisRect = "{{0, 0}, {960, 590}}";
+			sepNavWindowFrame = "{{674, 67}, {999, 719}}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* A800K.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 21448}}";
+			sepNavSelRange = "{19775, 0}";
+			sepNavVisRect = "{{0, 10931}, {711, 429}}";
+			sepNavWindowFrame = "{{130, 360}, {750, 558}}";
+		};
+	};
+	32D94FC30562CBF700B6AF17 /* A800K */ = {
+		activeExec = 0;
+	};
+	32D94FCF0562CBF700B6AF17 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 590}}";
+			sepNavSelRange = "{538, 0}";
+			sepNavVisRect = "{{0, 0}, {960, 590}}";
+			sepNavWindowFrame = "{{38, 283}, {999, 719}}";
+		};
+	};
+	E439BAAC0AB6A8AB002558D2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	E439BAAD0AB6A8AB002558D2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E462B67C0AF014FD00195849 /* A800USBI2CPipe.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 590}}";
+			sepNavSelRange = "{501, 0}";
+			sepNavVisRect = "{{0, 0}, {960, 590}}";
+			sepNavWindowFrame = "{{15, 304}, {999, 719}}";
+		};
+	};
+	E4A723F60AF1717A00EACDCD /* dib3000mc_priv.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 6748}}";
+			sepNavSelRange = "{3657, 22}";
+			sepNavVisRect = "{{0, 1281}, {960, 590}}";
+			sepNavWindowFrame = "{{141, 62}, {999, 719}}";
+		};
+	};
+	E4CD24AF0AEF69E800966F6F /* DIB3000.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {711, 2338}}";
+			sepNavSelRange = "{2584, 0}";
+			sepNavVisRect = "{{0, 1389}, {711, 429}}";
+			sepNavWindowFrame = "{{153, 339}, {750, 558}}";
+		};
+	};
+	E4CD24B00AEF69E800966F6F /* DIB3000.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {980, 15204}}";
+			sepNavSelRange = "{219, 64}";
+			sepNavVisRect = "{{0, 0}, {711, 429}}";
+			sepNavWindowFrame = "{{15, 465}, {750, 558}}";
+		};
+	};
+}

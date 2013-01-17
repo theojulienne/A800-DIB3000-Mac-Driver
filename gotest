@@ -1,0 +1,7 @@
+#!/bin/sh
+
+./unload
+cd build/Debug
+sudo cp -R A800K.kext /tmp
+cd /tmp
+sudo kextload -v A800K.kext
